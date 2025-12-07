@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+pdfminer.six
+python-multipart
+pydantic
+scikit-learn
+nltk
+python-dotenv
+requests
+starlette
+pytest
+python-dateutil

@@ -1,0 +1,12 @@
+[
+  {
+    "doc_id": 1,
+    "q": "Does the contract auto-renew?",
+    "expected": "Yes, it auto-renews unless notice given."
+  },
+  {
+    "doc_id": 1,
+    "q": "What is the governing law?",
+    "expected": "Governing law is State of X."
+  }
+]
